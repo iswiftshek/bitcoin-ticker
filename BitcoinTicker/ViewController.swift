@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  BitcoinTicker
 //
-//  Created by Angela Yu on 23/01/2016.
-//  Copyright © 2016 London App Brewery. All rights reserved.
+//  Created by Abhishek Sansanwal.
+//  Copyright © 2018 Abhishek Sansanwal. All rights reserved.
 //
 
 import UIKit
